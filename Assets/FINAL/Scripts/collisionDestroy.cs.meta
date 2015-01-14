@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 8846417901f4942d2a5fa9e32ce69d45
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - explosion: {instanceID: 0}
+  - playerExplosion: {instanceID: 0}
+  - enemyDie: {fileID: 8300000, guid: 6df53bad7afdc6e4bb48110a94bd2c8c, type: 3}
+  - playerDie: {fileID: 8300000, guid: c271417d87144cd4c95ffbe47caf9334, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
